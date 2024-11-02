@@ -1,5 +1,3 @@
-Here's a refined GitHub README description for your project:
-
 ---
 
 # 📊 Study Time vs. Score Prediction using Linear Regression
